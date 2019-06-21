@@ -10,3 +10,7 @@ The main motive is finally to achieve sentiment analysis.
 
 Here California Earthquake tweets have been used as dataset.
 And another dataset indicates the label of tweets which has been used in the classification along wtth the former dataset
+
+
+And BTW you may see some of the code execution commands in between since it has been worked in google colab it seems as such.
+I solemnly apologize for the convenience.
